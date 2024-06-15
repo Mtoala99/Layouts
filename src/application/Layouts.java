@@ -44,7 +44,7 @@ public class Layouts extends Application {
 	        
 	        Scene scene = new Scene(mainLayout, 600, 600);
 	        
-	        primaryStage.setTitle("JavaFX Layouts Example");
+	        primaryStage.setTitle("JavaFX Layouts");
 	        primaryStage.setScene(scene);
 	        primaryStage.show();
 	    }
